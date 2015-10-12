@@ -12,4 +12,4 @@ Este curso revisará los conceptos principales del posicionamiento satelital inc
 - Órbitas y trayectorias de los satélites
 - Técnicas de posicionamiento
 - Afectaciones atmosféricas
-- Modelado inosférico
+- Modelado ionosférico
