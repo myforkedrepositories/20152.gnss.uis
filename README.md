@@ -14,6 +14,14 @@ Este curso revisará los conceptos principales del posicionamiento satelital inc
 - Afectaciones atmosféricas
 - Modelado ionosférico
 
+### Calificación
+
+70% problemsets, 15% Lab A, 15% Lab B [labs page](http://www.gps-lab.org/labs.html)
+
+Lab A: Compara 5 posiciones a cielo abierto y 5 posiciones con visibilidad reducida de satélites
+
+Lab B: Predice y compara la posición de 3 satélites en 3 días distintos
+
 ### Referencias
 
 - ESA GNSS handbook, vol I [download](http://www.navipedia.net/GNSS_Book/ESA_GNSS-Book_TM-23_Vol_I.pdf)
