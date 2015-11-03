@@ -18,7 +18,7 @@ Este curso revisará los conceptos principales del posicionamiento satelital inc
 
 70% problemsets, 15% Lab A, 15% Lab B [labs page](http://www.gps-lab.org/labs.html)
 
-Lab A: Compara 5 posiciones a cielo abierto y 5 posiciones con visibilidad reducida de satélites
+Lab A: Compara 5 posiciones a cielo abierto y 5 posiciones con visibilidad reducida de satélites. Para cada posición anota los satélites en vista junto con la elevación y azimut de cada uno de ellos. Descarga después los ficheros de observación y navegación de la estación BOGT del día que hiciste las observaciones y compara la elevación y azimut de los satélites observados por tí y observados por la estación BOGT.
 
 Lab B: Predice y compara la posición de 3 satélites en 3 días distintos
 
